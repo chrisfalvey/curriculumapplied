@@ -9,4 +9,4 @@
 
 - Applied Learning Curicula
   - Applied Learning Numeracy Curriculum
-    - [Applied Learning Numeracy Scope and Sequence](Applied_Numeracy_Scope_And_Sequence.md)
+    - [Applied Learning Numeracy Scope and Sequence](Applied_Numeracy_Scope_and_Sequence.md)
