@@ -10,3 +10,15 @@
 - Applied Learning Curicula
   - Applied Learning Numeracy Curriculum
     - [Applied Learning Numeracy Scope and Sequence](Applied_Numeracy_Scope_and_Sequence.md)
+    - Applied Learning Numeeracy slide decks
+      - Unit 1
+      - Unit 2
+      - Unit 3
+      - Unit 4
+  - Applied Learning Literacy Curriculum
+  - Applied Learning Work Related Skills (WRS) Curriculum
+  - Applied Learning Personal Development Skills (PDS) Curriculum
+- Digital Technologies Curicula
+- Leadership Curicula
+  - Year 7-8 Leadership (4Rs) Curiculum
+  - Year 9-10 LEadership (Community Leadership Through Art) Curriculum
