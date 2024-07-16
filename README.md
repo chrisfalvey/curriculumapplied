@@ -21,4 +21,7 @@
 - Digital Technologies Curicula
 - Leadership Curicula
   - Year 7-8 Leadership (4Rs) Curiculum
-  - Year 9-10 LEadership (Community Leadership Through Art) Curriculum
+  - Year 9-10 Leadership (Community Leadership Through Art) Curriculum
+- Resources
+  - Connect Safely: (https://www.connectsafely.org/)
+  - Common Sense Media: (https://www.commonsensemedia.org/)
