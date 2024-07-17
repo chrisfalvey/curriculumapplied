@@ -1,23 +1,29 @@
 # 4Rs Scope and Sequence
 *Year 7*
 
+**Prepared by:** [Chris Falvey](https://www.chrisfalvey.xyz/)
+
 ## Overview
 
-### Sections
+### Curriculum
+
+**Reference:** [Victorian Curriculum, Personal and Social Capability](https://victoriancurriculum.vcaa.vic.edu.au/personal-and-social-capability/curriculum/f-10#level=7-8)
+
+### Units
 
 | Sequence  | Topic                                        | Curriculum Area |
 |-----------|----------------------------------------------|-----------------|
-| Section 1 | Cyber Safety                                 ||
-| Section 2 | Resilience                                   ||
-| Section 3 | Communication, Collaboration and Cooperation ||
+| Unit 1    | Cyber Safety                                 ||
+| Unit 2    | Resilience                                   ||
+| Unit 3    | Communication, Collaboration and Cooperation ||
 
 ## Section one: Cyber Safety
 
-### Lesson 1: What is cybersafetly and why do we learn about it
+### Unit 1: What is cybersafetly and why do we learn about it
 
-### Lesson 2: 
+### Unit 2: 
 
-### Lesson 3: 
+### Unit 3: 
 
 ### Assessment and Reporting
 
