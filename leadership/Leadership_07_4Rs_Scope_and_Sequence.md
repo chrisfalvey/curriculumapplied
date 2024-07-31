@@ -21,9 +21,28 @@
 
 ### Unit 1: What is cybersafetly and why do we learn about it
 
+| Sequence | Topic | Descrtiption | Task |
+|----------|-------|--------------|------|
+| Unit 1.1 | | | |
+| Unit 1.2 | Passwords | | |
+| Unit 1.3 | Understanding a Computer, The Internet, and Safe Websites | | Complete questions in learning folio |
+| Unit 1.4 | | | |
+
 ### Unit 2: 
 
+| Sequence | Topic | Description | Task |
+|-|-|-|-|
+| Unit 2.1 | | | |
+| Unit 2.2 | | | |
+
 ### Unit 3: 
+
+| Sequence | Topic | Description | Task |
+|-|-|-|-|
+| Unit 3.1 | | | |
+| Unit 3.2 | | | |
+| Unit 3.3 | | | |
+| Unit 3.4 | | | |
 
 ### Assessment and Reporting
 
