@@ -32,6 +32,12 @@ The following curriculum is based on the [VCAA Vocational Major Numeracy Study D
 | Numeracy: ??? |             |             |             |
 | Numeracy: ??? |             |             |             |
 
+### Unit 2 Sequence of delivery
+
+| Sequence | Topic | Outcomes |
+|-|-|-|
+| | | |
+| 2.x.x | Place and Demographics | Read and understand key features of maps |
 
 ## Unit 3
 
